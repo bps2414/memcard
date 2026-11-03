@@ -1,12 +1,21 @@
-<p align="center"><img src="docs/logo.svg" width="96" alt=""></p>
+<p align="center"><img src="docs/banner.png" alt="Memcard: versioned PS5 save backups on your server"></p>
 
-# Memcard
+<p align="center"><strong>A memory card for your PS5.</strong><br>Automatic, versioned backups of the saves on a jailbroken console, stored on a computer in your home network, with a web interface.</p>
 
-**English** · [Português](README.md)
+<p align="center">
+  <a href="https://github.com/bps2414/memcard/releases/latest"><strong>Download</strong></a> ·
+  <a href="#installation">Installation</a> ·
+  <a href="#restoring-a-save">Restoring a save</a> ·
+  <a href="ROADMAP.md">Roadmap</a> ·
+  <a href="README.md">Português</a>
+</p>
 
-A memory card for your PS5: automatic, versioned backups of the saves on a
-jailbroken console, stored on a computer in your home network, with a web
-interface.
+<p align="center">
+  <a href="https://github.com/bps2414/memcard/releases/latest"><img src="https://img.shields.io/github/v/release/bps2414/memcard?label=release&color=24292f" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/console-PS5-24292f" alt="PS5">
+  <img src="https://img.shields.io/badge/server-Windows%20%7C%20Docker-24292f" alt="Windows or Docker server">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-24292f" alt="MIT license"></a>
+</p>
 
 ![Cards screen: one card per profile, one block per game](docs/screenshot.en.png)
 
@@ -358,3 +367,11 @@ dedicated payload.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+<p align="center">
+  <a href="https://star-history.com/#bps2414/memcard&Date"><img src="https://api.star-history.com/svg?repos=bps2414/memcard&type=Date" alt="Star history" width="560"></a>
+</p>
+
+<p align="center">If Memcard ever saved one of your saves, a ★ on the repo helps other people find it.</p>
